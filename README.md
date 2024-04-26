@@ -4,7 +4,7 @@
 ### Sobre mim:
 <!-- Sou estudante de Análise e desenvolvimento de sistemas. Com foco em Desenvolvimento Frontend, busco aprender cada vez mais tecnologias e habilidades para um desenvolvimento eficaz. Apesar do foco no frontend, no momento estou aprendendo desenvolvimento backend em Java. -->
 
-+ Estudante de Análise e desenvolviemento de sistemas;
++ Estudante de Análise e desenvolvimento de sistemas;
 + Foco em desenvolvimento frontend;
 + Atualmente estudando backend em Java.
 
