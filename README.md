@@ -6,7 +6,7 @@
 
 + Estudante de Análise e desenvolvimento de sistemas;
 + Foco em desenvolvimento frontend;
-+ Atualmente estudando backend em Java.
++ Atualmente estudando backend em PHP.
 
 Busco aprender cada vez mais linguagens, tecnologias e melhores práticas para um desenvolvimento de código eficaz.
 ## Linguagens e tecnologias utilizadas
